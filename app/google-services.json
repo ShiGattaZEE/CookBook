@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "100597213494",
+    "firebase_url": "https://simplesocialmediaapp-3984f-default-rtdb.firebaseio.com",
+    "project_id": "simplesocialmediaapp-3984f",
+    "storage_bucket": "simplesocialmediaapp-3984f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100597213494:android:3736b212f9d3cf3f146b97",
+        "android_client_info": {
+          "package_name": "com.example.simplesocialmediaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtw5csbssKYM3Q0eK5B4c2qzVZWomM_wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
